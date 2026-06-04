@@ -1,6 +1,6 @@
 ## Dmart Sales Analysis
 
-### Main Dataset (Original)
+### Main Dataset
 | Metric         | Value                          |
 | -------------- | ------------------------------ |
 | Total Records  | **15,345**                     |
